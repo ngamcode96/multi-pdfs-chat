@@ -15,6 +15,7 @@ answers from the content of the documents
 3. Install packages
     ```pip install -r requirements.txt``` 
 4. Create .env file
+   
 Add openai key : OPENAI_API_KEY="sk-"
 
 6. Finally to run the app
