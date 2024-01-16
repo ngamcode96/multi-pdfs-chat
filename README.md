@@ -4,7 +4,7 @@ Website where users can upload PDF documents and ask questions in a chat
 format. The system use LLM and different tools to extract and provide relevant
 answers from the content of the documents
 
-### 1. To run the project locally:
+### How To run the project locally:
 1. Clone the project
    ```cd multi-pdfs-chat/```
 2. Create virtual environnement i you want et activated it
